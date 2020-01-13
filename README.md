@@ -1,0 +1,2 @@
+# RetoShopos
+ Automatizar Pagina Tottus
